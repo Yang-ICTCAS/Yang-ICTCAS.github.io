@@ -1,0 +1,45 @@
+title: Xiaodong Yang
+
+name:
+  display: Xiaodong Yang
+  given: Xiaodong
+  family: Yang
+
+role: Associate Researcher · 副研究员
+
+bio: |
+  Xiaodong Yang (杨晓东) is an Associate Researcher at the [Institute of Computing Technology (ICT)](https://www.ict.ac.cn/), Chinese Academy of Sciences, and a Master's supervisor in Computer Application Technology. He is a member of the Ubiquitous Computing Systems Research Center (泛在计算系统研究中心).
+
+  His research focuses on **AI for Science**, with emphasis on digital cell simulation, multimodal large language models, federated learning for healthcare, and intelligent clinical decision support. His work has been published in *Cell Research* (IF 28.2), AAAI, IJCAI, and IEEE Transactions, with **15 Chinese patents**.
+
+  He leads a National Natural Science Foundation of China (NSFC) Youth Project and serves as sub-project leader in the National Key R&D Program on life science foundation models.
+
+  **Prospective students**: I am looking for motivated Master's students and research interns interested in AI for Science and intelligent healthcare. Please reach out by email.
+
+affiliations:
+  - name: Institute of Computing Technology, Chinese Academy of Sciences
+    url: https://www.ict.ac.cn/
+
+links:
+  - icon: hero/envelope
+    url: 'mailto:yangxiaodong@ict.ac.cn'
+    label: Email
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=EN3zdQ8AAAAJ&hl=en
+    label: Google Scholar
+
+interests:
+  - AI for Science
+  - Digital Cell Simulation
+  - Multimodal Large Models
+  - Smart Healthcare
+  - Federated Learning
+
+education:
+  - degree: PhD in Computer Science
+    institution: University of Chinese Academy of Sciences
+    start: '2013'
+    end: '2020'
+
+superuser: true
+is_owner: true
