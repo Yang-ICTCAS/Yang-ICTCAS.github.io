@@ -19,13 +19,6 @@ sections:
       css_class: dark
       background:
         color: black
-        image:
-          filename: bg-triangles.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
 
   - block: markdown
     id: research
