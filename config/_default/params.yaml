@@ -1,0 +1,66 @@
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: L
+
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: 'Institute of Computing Technology, Chinese Academy of Sciences'
+    description: 'Personal academic website of Xiaodong Yang, Associate Researcher at ICT CAS, working on AI for Science, multimodal large models, federated learning, and smart healthcare.'
+    twitter: ''
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
+
+header:
+  navbar:
+    enable: true
+    align: r
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
+
+footer:
+  copyright:
+    notice: '© {year} Xiaodong Yang · Institute of Computing Technology, CAS'
+    license:
+      enable: false
+
+locale:
+  date_format: 'Jan 2006'
+  time_format: ''
+
+features:
+  syntax_highlighter:
+    enable: false
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+  search:
+    provider: wowchemy
+  map:
+    provider: ''
+
+contact:
+  email: yangxiaodong@ict.ac.cn
+  address:
+    street: No. 6 Kexueyuan South Road, Zhongguancun
+    city: Beijing
+    postcode: '100190'
+    country: China
+    country_code: CN
+  autolink: true
