@@ -7,21 +7,21 @@ defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 enableRobotsTXT: true
+enableGitInfo: false
 summaryLength: 30
+enableEmoji: true
 
-paginate: 10
+pagination:
+  pagerSize: 10
 
 outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
+  home: [HTML, RSS, headers, redirects, backlinks]
+  section: [HTML, RSS]
 
 module:
   imports:
-    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
-    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-core
-    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-seo
+    - path: github.com/HugoBlox/kit/modules/blox
+    - path: github.com/HugoBlox/kit/modules/slides
 
 build:
   writeStats: true
@@ -31,7 +31,7 @@ markup:
 
 imaging:
   resampleFilter: lanczos
-  quality: 80
+  quality: 90
   anchor: smart
 
 taxonomies:

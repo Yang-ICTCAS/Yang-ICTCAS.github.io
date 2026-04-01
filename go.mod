@@ -1,10 +1,9 @@
-module my-website
+module github.com/HugoBlox/kit/templates/academic-cv
 
-go 1.22.0
-
-require github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.3.1
+go 1.19
 
 require (
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.1 // indirect
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.1.3 // indirect
+	github.com/HugoBlox/kit/modules/integrations/netlify v0.0.0-20260327032542-ef8ed449c7e8
+	github.com/HugoBlox/kit/modules/blox v0.0.0-20260327043553-76023f9461b1
+	github.com/HugoBlox/kit/modules/slides v0.0.0-20260327041717-ee683c8cd1d1
 )
