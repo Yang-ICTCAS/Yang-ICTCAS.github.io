@@ -1,0 +1,11 @@
+{
+  "name": "yang-ictcas-academic-cv",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.12",
+    "@tailwindcss/typography": "^0.5.10",
+    "tailwindcss": "^4.1.12",
+    "preact": "^10.27.2"
+  }
+}

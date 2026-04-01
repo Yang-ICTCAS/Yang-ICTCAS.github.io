@@ -80,11 +80,10 @@ sections:
     design:
       columns: '1'
 
-  - block: contact
+  - block: contact-info
     id: contact
     content:
       title: Contact
-      text: ''
       email: yangxiaodong@ict.ac.cn
       address:
         street: No. 6 Kexueyuan South Road, Zhongguancun
@@ -92,7 +91,4 @@ sections:
         postcode: '100190'
         country: China
         country_code: CN
-      autolink: true
-    design:
-      columns: '1'
 ---
