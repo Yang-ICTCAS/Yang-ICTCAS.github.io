@@ -1,0 +1,507 @@
+{
+  "name": "Xiaodong Yang",
+  "source": "https://scholar.google.com/citations?user=EN3zdQ8AAAAJ&hl=en&pagesize=100",
+  "retrieved": "2026-09-19",
+  "articles": [
+    {
+      "title": "GeneCompass: deciphering universal gene regulatory mechanisms with a knowledge-informed cross-species foundation model",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:70eg2SAEIzsC",
+      "authors": "X Yang, G Liu, G Feng, D Bu, P Wang, J Jiang, S Chen, Q Yang, H Miao, ...",
+      "venue": "Cell Research 34, 830–845 (2024)",
+      "year": "2024",
+      "topic": "cells",
+      "featured": true,
+      "short": "Cell Research",
+      "paper": "https://www.nature.com/articles/s41422-024-01034-y",
+      "summary_en": "A knowledge-informed foundation model for learning gene representations across species.",
+      "summary_zh": "融合先验知识的跨物种基础模型，学习基因表征与调控机制。",
+      "rank": 0
+    },
+    {
+      "title": "Dealing with label quality disparity in federated learning",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:0EnyYjriUFMC",
+      "authors": "Y Chen, X Yang, X Qin, H Yu, P Chan, Z Shen",
+      "venue": "Federated Learning: Privacy and Incentive, 108-121, 2020",
+      "year": "2020",
+      "topic": "learning",
+      "type": "Book chapter",
+      "featured": false
+    },
+    {
+      "title": "Learning effective spatial–temporal features for sEMG armband-based gesture recognition",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:LkGwnXOMwfcC",
+      "authors": "Y Zhang, Y Chen, H Yu, X Yang, W Lu",
+      "venue": "IEEE Internet of things journal 7 (8), 6979-6992, 2020",
+      "year": "2020",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "Prediction models for postoperative delirium in elderly patients with machine-learning algorithms and SHapley Additive exPlanations",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:vV6vV6tmYwMC",
+      "authors": "Y Song, D Zhang, Q Wang, Y Liu, K Chen, J Sun, L Shi, B Li, X Yang, ...",
+      "venue": "Translational Psychiatry 14, 57 (2024)",
+      "year": "2024",
+      "topic": "physiology",
+      "featured": false,
+      "short": "Transl. Psychiatry",
+      "paper": "https://www.nature.com/articles/s41398-024-02762-w"
+    },
+    {
+      "title": "Comparison of logistic regression and machine learning methods for predicting postoperative delirium in elderly patients: A retrospective study",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:blknAaTinKkC",
+      "authors": "Y Song, X Yang, Y Luo, C Ouyang, Y Yu, Y Ma, H Li, J Lou, Y Liu, Y Chen, ...",
+      "venue": "CNS Neuroscience & Therapeutics 29 (1), 158-167, 2023",
+      "year": "2023",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "Learning critically: Selective self-distillation in federated learning on non-iid data",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:5nxA0vEk-isC",
+      "authors": "Y He, Y Chen, XD Yang, H Yu, YH Huang, Y Gu",
+      "venue": "IEEE Transactions on Big Data 10 (6), 789-800, 2022",
+      "year": "2022",
+      "topic": "learning",
+      "featured": false
+    },
+    {
+      "title": "Wearing-independent hand gesture recognition method based on EMG armband",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:roLk4NBRz8UC",
+      "authors": "Y Zhang, Y Chen, H Yu, X Yang, W Lu, H Liu",
+      "venue": "Personal and Ubiquitous Computing 22 (3), 511-524, 2018",
+      "year": "2018",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "Iterative Self-Training based Domain Adaptation for Cross-User sEMG Gesture Recognition",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:r0BpntZqJG4C",
+      "authors": "K Wang, Y Chen, Y Zhang, X Yang, C Hu",
+      "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2023",
+      "year": "2023",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "Clc: A consensus-based label correction approach in federated learning",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:W7OEmFMy1HYC",
+      "authors": "B Zeng, X Yang, Y Chen, H Yu, Y Zhang",
+      "venue": "ACM Transactions on Intelligent Systems and Technology (TIST) 13 (5), 1-23, 2022",
+      "year": "2022",
+      "topic": "learning",
+      "featured": false
+    },
+    {
+      "title": "Class-wise adaptive self distillation for heterogeneous federated learning",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:UeHWp8X0CEIC",
+      "authors": "Y He, Y Chen, X Yang, Y Zhang, B Zeng",
+      "venue": "AAAI 2022 Workshop (Scholar record)",
+      "year": "2022",
+      "topic": "learning",
+      "type": "Workshop",
+      "featured": false
+    },
+    {
+      "title": "A feature adaptive learning method for high-density semg-based gesture recognition",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:UebtZRa9Y70C",
+      "authors": "Y Zhang, Y Chen, H Yu, X Yang, R Sun, B Zeng",
+      "venue": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2021",
+      "year": "2021",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "Dual layer transfer learning for sEMG-based user-independent gesture recognition",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:2osOgNQ5qMEC",
+      "authors": "Y Zhang, Y Chen, H Yu, X Yang, W Lu",
+      "venue": "Personal and Ubiquitous Computing, 1-12, 2020",
+      "year": "2020",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "What can “drag & drop” tell? Detecting mild cognitive impairment by hand motor function assessment under dual-task paradigm",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:_FxGoFyzp5QC",
+      "authors": "Y Zhang, Y Chen, H Yu, Z Lv, X Yang, C Hu, T Zhang",
+      "venue": "International Journal of Human-Computer Studies 145, 102547, 2021",
+      "year": "2021",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "Intraoperative blood pressure and cardiac complications after aneurysmal subarachnoid hemorrhage: a retrospective cohort study",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:O3NaXMp0MMsC",
+      "authors": "J Wang, F Lin, M Zeng, M Liu, M Zheng, Y Ren, S Li, X Yang, Y Chen, ...",
+      "venue": "International Journal of Surgery, 10.1097, 2023",
+      "year": "2023",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "FedIO: Bridge inner-and outer-hospital information for perioperative complications prognostic prediction via federated learning",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:hqOjcs7Dif8C",
+      "authors": "W Sun, Y Chen, X Yang, J Cao, Y Song",
+      "venue": "2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM …, 2021",
+      "year": "2021",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "PdAssist: Objective and quantified symptom assessment of Parkinson's disease via smartphone",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:IjCSPb-OGe4C",
+      "authors": "Y Chen, X Yang, B Chen, C Miao, H Yu",
+      "venue": "2017 IEEE International Conference on Bioinformatics and Biomedicine (BIBM …, 2017",
+      "year": "2017",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "Instance-wise dynamic sensor selection for human activity recognition",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:Y0pCki6q_DkC",
+      "authors": "X Yang, Y Chen, H Yu, Y Zhang, W Lu, R Sun",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (01), 1104-1111, 2020",
+      "year": "2020",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "Wearable Sensors Based Automatic Box and Block Test System",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:Se3iqnhoufwC",
+      "authors": "Y Zhang, Y Chen, H Yu, Z Lv, P Shang, Y Ouyang, X Yang, W Lu",
+      "venue": "2019 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced …, 2019",
+      "year": "2019",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "Development and Validation of an Explainable Machine Learning Model for Predicting Myocardial Injury After Noncardiac Surgery in Two Centers in China: Retrospective Study",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:lSLTfruPkqcC",
+      "authors": "C Liu, K Zhang, X Yang, B Meng, J Lou, Y Liu, J Cao, K Liu, W Mi, H Li",
+      "venue": "JMIR aging 7 (1), e54872, 2024",
+      "year": "2024",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "Adaptive Multi-modal Data Fusion Method for Dermatosis Diagnosis",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:ns9cj8rnVeAC",
+      "authors": "Y Li, X Yang, Y Chen, S Chen, B Zeng, H Cai",
+      "venue": "2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM …, 2023",
+      "year": "2023",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "Federated data quality assessment approach: robust learning with mixed label noise",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:M3NEmzRMIkIC",
+      "authors": "B Zeng, X Yang, Y Chen, H Yu, C Hu, Y Zhang",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems 35 (12), 17620-17634, 2023",
+      "year": "2023",
+      "topic": "learning",
+      "featured": false
+    },
+    {
+      "title": "FedES: federated early-stopping for hindering memorizing heterogeneous label noise",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:ldfaerwXgEUC",
+      "authors": "B Zeng, X Yang, Y Chen, Z Shen, H Yu, Y Zhang",
+      "venue": "IJCAI 2024 · Main Track, 5416–5424",
+      "year": "2024",
+      "topic": "learning",
+      "featured": false,
+      "short": "IJCAI",
+      "paper": "https://www.ijcai.org/proceedings/2024/599",
+      "pdf": "https://www.ijcai.org/proceedings/2024/0599.pdf"
+    },
+    {
+      "title": "Multi-Source Integration based Transfer Learning Method for Cross-User sEMG Gesture Recognition",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:Zph67rFs4hoC",
+      "authors": "K Wang, Y Chen, Y Zhang, X Yang, C Hu",
+      "venue": "2022 International Joint Conference on Neural Networks (IJCNN), 1-8, 2022",
+      "year": "2022",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "MoPFormer: Motion-Primitive Transformer for Wearable-Sensor Activity Recognition",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:HoB7MX3m0LUC",
+      "authors": "Hao Zhang, Zhan Zhuang, Xuehao Wang, Xiaodong Yang, Yu Zhang",
+      "venue": "NeurIPS 2025 · Advances in Neural Information Processing Systems 38, 39334–39360",
+      "year": "2025",
+      "topic": "physiology",
+      "featured": false,
+      "short": "NeurIPS",
+      "paper": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/37ecb317d11004f77defbca54ef3b928-Abstract-Conference.html",
+      "pdf": "https://papers.nips.cc/paper_files/paper/2025/file/37ecb317d11004f77defbca54ef3b928-Paper-Conference.pdf",
+      "summary_en": "Motion-primitive representations for wearable-sensor activity recognition.",
+      "summary_zh": "以运动基元表征建模可穿戴传感器数据，实现人体活动识别。"
+    },
+    {
+      "title": "Class-Wise Adaptive Self Distillation for Federated Learning on Non-IID Data (Student Abstract)",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:WF5omc3nYNoC",
+      "authors": "Y He, Y Chen, X Yang, Y Zhang, B Zeng",
+      "venue": "AAAI 2022, 36(11), 12967–12968",
+      "year": "2022",
+      "topic": "learning",
+      "type": "Student abstract",
+      "paper": "https://ojs.aaai.org/index.php/AAAI/article/view/21620",
+      "featured": false
+    },
+    {
+      "title": "DSWHAR: A Dynamic Sliding Window Based Human Activity Recognition Method",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:bEWYMUwI8FkC",
+      "authors": "L Sun, X Yang, C Hu",
+      "venue": "2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable …, 2022",
+      "year": "2022",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "Focus: Dealing with label quality disparity in federated learning",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:NMxIlDl6LWMC",
+      "authors": "C Yiqiang, Y Xiaodong, Q Xin, Y Han, C Biao, S Zhiqi",
+      "venue": "arXiv preprint arXiv:2001.11359, 2020",
+      "year": "2020",
+      "topic": "learning",
+      "type": "Preprint",
+      "featured": false
+    },
+    {
+      "title": "Application of multimodal deep learning in the auxiliary diagnosis and treatment of dermatological diseases",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:2P1L_qKh6hAC",
+      "authors": "T Li, B Li, Y Jia, L Duan, P Sun, X Li, X Yang, H Cai",
+      "venue": "Intelligent Medicine 5 (02), 132-140, 2025",
+      "year": "2025",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "Uncertainty-based Fusion Netwok for Automatic Skin Lesion Diagnosis",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:mVmsd5A6BfQC",
+      "authors": "S Chen, X Yang, Y Chen, H Yu, H Cai",
+      "venue": "2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM …, 2022",
+      "year": "2022",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "strdoctor: Indicate stroke for elderly through body sensing game",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:qjMakFHDy7sC",
+      "authors": "H Yu, X Yang, Y Chen, J Liu",
+      "venue": "2015 IEEE 12th Intl Conf on Ubiquitous Intelligence and Computing and 2015 …, 2015",
+      "year": "2015",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "Early detection of Parkinson's disease: Machine learning-based prediction of UPDRS Part III scores in de novo patients using smartphone assessments",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:SeFeTyx0c_EC",
+      "authors": "WH Guo, XD Yang, Z Ruan, X Wang, DZ Zhang, SC Song, YQ Chen, ...",
+      "venue": "Journal of Parkinson’s Disease 15 (6), 1099-1110, 2025",
+      "year": "2025",
+      "topic": "physiology",
+      "featured": true,
+      "rank": 4
+    },
+    {
+      "title": "FedDBM: Federated Digital Biomarker for Detecting Parkinson’s Disease Progress",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:maZDTaKrznsC",
+      "authors": "Y Chen, X Yang, Y He, C Miao, P Chan",
+      "venue": "2023 IEEE International Conference on Multimedia and Expo (ICME), 678-683, 2023",
+      "year": "2023",
+      "topic": "physiology",
+      "featured": true,
+      "rank": 3
+    },
+    {
+      "title": "A review on the recognition of mid-air gestures",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:NaGl4SEjCO4C",
+      "authors": "H YU, X YANG, Y ZHANG, X ZHONG, Y CHEN",
+      "venue": "Science & Technology Review 35 (16), 64-73, 2017",
+      "year": "2017",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "CellPolaris: Decoding Cell Fate through Generalization Transfer Learning of Gene Regulatory Networks",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:BqipwSGYUEgC",
+      "authors": "G Feng, X Qin, J Zhang, W Huang, Y Zhang, W Cui, S Li, Y Chen, W Liu, ...",
+      "venue": "bioRxiv, 2023.09. 25.559244, 2023",
+      "year": "2023",
+      "topic": "cells",
+      "type": "Preprint",
+      "featured": false
+    },
+    {
+      "title": "Less annotation on active learning using confidence-weighted predictions",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:u-x6o8ySG0sC",
+      "authors": "X Yang, Y Chen, H Yu, Y Zhang",
+      "venue": "Neurocomputing 275, 1629-1636, 2018",
+      "year": "2018",
+      "topic": "learning",
+      "featured": false
+    },
+    {
+      "title": "Context-aware information based ultrasonic gesture recognition method",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:hMod-77fHWUC",
+      "authors": "X Zhong, Y Chen, H Yu, X Yang, Z Hu",
+      "venue": "Journal of Computer-Aided Design & Computer Graphics 30 (1), 173, 2018",
+      "year": "2018",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "“Explaining AI Medical Models in My Way”: An LLM-Enhanced Personalized Report for Clinicians",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:rO6llkc54NcC",
+      "authors": "S Song, Y Chen, Y Zhang, X Yang, X Wang, W Guo",
+      "venue": "IEEE BIBM 2025",
+      "year": "2025",
+      "topic": "agents",
+      "featured": false,
+      "short": "BIBM"
+    },
+    {
+      "title": "FedAWM: Adaptive Watermark Allocation in Non-IID Federated Learning",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:pqnbT2bcN3wC",
+      "authors": "J Sun, X Yang, S Chen, X Qin, B Zeng",
+      "venue": "Knowledge-Based Systems 332, 114938 (2026; online 2025)",
+      "year": "2026",
+      "topic": "learning",
+      "featured": true,
+      "short": "KBS",
+      "paper": "https://doi.org/10.1016/j.knosys.2025.114938",
+      "rank": 2
+    },
+    {
+      "title": "Bridging cross-tasks gap for cognitive assessment via fine-grained domain adaptation",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:Tyk-4Ss8FVUC",
+      "authors": "Y Zhang, Y Chen, H Yu, Z Lv, Q Li, X Yang",
+      "venue": "Proceedings of the Twenty-Ninth International Conference on International …, 2021",
+      "year": "2021",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "A Communication-Efficient Vertical Federated Learning via Neuron Selection",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:J_g5lzvAfSwC",
+      "authors": "C Yang, Y Cheng, X Yang, Y He",
+      "venue": "2023 IEEE Smart World Congress (SWC), 1-8, 2023",
+      "year": "2023",
+      "topic": "learning",
+      "featured": false
+    },
+    {
+      "title": "Model Synthesizer: Synthesizing Disparate Models to Enhance Single-Cell Transcriptomics Models",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:fPk4N6BV_jEC",
+      "authors": "S Chen, Z Cao, X Qin, X Yang",
+      "venue": "IEEE BIBM 2025, 473–480",
+      "year": "2025",
+      "topic": "cells",
+      "featured": true,
+      "short": "BIBM",
+      "paper": "https://doi.org/10.1109/BIBM66473.2025.11356145",
+      "rank": 1
+    },
+    {
+      "title": "Hierarchical Semi-Supervised Federated Learning Method for Dermatosis Diagnosis",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:g5m5HwL7SMYC",
+      "authors": "R Sun, B Zeng, Y Chen, X Yang, H Yu",
+      "venue": "2025 IEEE Wireless Communications and Networking Conference (WCNC), 1-6, 2025",
+      "year": "2025",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "C-PPT: A Channel-Wise Prototypical Part Transformer for Interpretable Perioperative Complication Prediction with Blood Pressure",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:35N4QoGY0k4C",
+      "authors": "J Zhang, X Yang, Y Chen, R Sun",
+      "venue": "ICPR 2024, 46–60",
+      "year": "2024",
+      "topic": "physiology",
+      "featured": false,
+      "short": "ICPR"
+    },
+    {
+      "title": "Generating Post-healing Images of Skin Diseases Based on an Adversarial Self-coding Generator",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:YFjsv_pBGBYC",
+      "authors": "Y Li, Y Chen, X Yang, H Cai",
+      "venue": "International Conference on Image, Vision and Intelligent Systems, 110-118, 2022",
+      "year": "2022",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "MoFedNet: Semantic Link is All Models Need",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:4OULZ7Gr8RgC",
+      "authors": "YQ Chen, XL Jiang, Q Chen, XD Yang, JH Li, T Zhang, X Qin, WL Huang",
+      "venue": "Journal of Computer Science and Technology 41 (2), 475-493, 2026",
+      "year": "2026",
+      "topic": "learning",
+      "featured": false
+    },
+    {
+      "title": "Improving Data Quality with Active Monitoring: Design and Evaluate an Interactive Assessment System in Healthcare",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:zA6iFVUQeVQC",
+      "authors": "S Song, Y Chen, Y Zhang, X Yang, J Gao, X Wang",
+      "venue": "International Journal of Human–Computer Interaction, 1-33, 2026",
+      "year": "2026",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "Auxiliary diagnosis of hyperpigmented skin diseases using multimodal deep learning",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:ZHo1McVdvXMC",
+      "authors": "T Li, J Zhang, B Li, Y Chen, Y Jia, Q Wang, X Li, H Li, Y Li, X Yang, H Cai",
+      "venue": "Chinese Medical Journal 139 (03), 460-462, 2026",
+      "year": "2026",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "MPN: A Multimodal Prototypical Part Network for Enhanced Dermatological Diagnosis and Decision Support",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:u_35RYKgDlwC",
+      "authors": "J Zhang, X Yang, T Li, H Yuan, H Liu",
+      "venue": "2025 International Joint Conference on Neural Networks (IJCNN), 1-8, 2025",
+      "year": "2025",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "A Data Contribution-Based Adaptive Federated Learning Approach for Wearable Activity Recognition",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:3s1wT3WcHBgC",
+      "authors": "Y Zhao, C Hu, X Yang, L Yuan, X Tian, T Gao, Y Chen",
+      "venue": "2025 28th International Conference on Computer Supported Cooperative Work in …, 2025",
+      "year": "2025",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "TFAugment: A Key Frequency-Driven Data Augmentation Method for Human Activity Recognition",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:RGFaLdJalmkC",
+      "authors": "H Zhang, B Zeng, M Kuang, X Yang, H Gong",
+      "venue": "Pacific-Asia Conference on Knowledge Discovery and Data Mining, 284-296, 2024",
+      "year": "2024",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "Multimode Heterogeneous Collaborative Sensing Method for Parkinson's Disease",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:YsMSGLbcyi4C",
+      "authors": "X YANG, Y CHEN, H YU, Y ZHANG, X ZHONG, Z HU, H LIU",
+      "venue": "ACTA ELECTONICA SINICA 46 (3), 659, 2018",
+      "year": "2018",
+      "topic": "physiology",
+      "featured": false
+    },
+    {
+      "title": "面向可穿戴设备的超声波手势识别方法 (Ultrasonic Waves Based Gesture Recognition Method for Wearable Equipment).",
+      "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:zYLM7Y9cAGgC",
+      "authors": "X Yang, Y Chen, H Yu, J Liu, Z Li",
+      "venue": "计算机科学 42 (10), 20-24, 2015",
+      "year": "2015",
+      "topic": "physiology",
+      "featured": false
+    }
+  ],
+  "note": "52 Google Scholar bibliography records, not a count of unique peer-reviewed papers. Author lists may be abbreviated. Selected metadata corrected with available publisher sources; other years follow Scholar."
+}
