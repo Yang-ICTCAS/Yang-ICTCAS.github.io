@@ -24,14 +24,11 @@ def build():
         if p.get('code'):
             links.append(('Code', p['code']))
         link_html = ''.join(f'<a href="{esc(url)}" target="_blank" rel="noopener noreferrer">{label}<span aria-hidden="true"> ↗</span><span class="visually-hidden"> — {esc(p["title"])}</span></a>' for label, url in links)
-        summary = ''
-        if p.get('summary_en'):
-            summary = f'<p class="pub-summary" data-en="{esc(p["summary_en"])}" data-zh="{esc(p["summary_zh"])}">{esc(p["summary_en"])}</p>'
         paper_type = f'<span class="paper-type">{esc(p["type"])}</span>' if p.get('type') else ''
         rows.append(f'''<article class="publication" data-featured="{str(featured).lower()}" data-topic="{esc(p['topic'])}" data-year="{esc(p['year'])}">
   <div class="pub-year">{esc(p['year'])}<span class="pub-venue-short">{esc(p.get('short',''))}</span></div>
   <div><a class="pub-title" href="{esc(p.get('paper',p['scholar']))}" target="_blank" rel="noopener noreferrer">{esc(p['title'])}</a>
-  <p class="pub-authors">{authors}</p><p class="pub-venue">{esc(p['venue'])}{paper_type}</p>{summary}
+  <p class="pub-authors">{authors}</p><p class="pub-venue">{esc(p['venue'])}{paper_type}</p>
   <div class="pub-links">{link_html}</div></div>
 </article>''')
         if featured:

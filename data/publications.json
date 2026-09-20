@@ -311,7 +311,8 @@
       "year": "2023",
       "topic": "physiology",
       "featured": true,
-      "rank": 3
+      "rank": 3,
+      "short": "ICME"
     },
     {
       "title": "A review on the recognition of mid-air gestures",
@@ -394,7 +395,7 @@
       "title": "Model Synthesizer: Synthesizing Disparate Models to Enhance Single-Cell Transcriptomics Models",
       "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EN3zdQ8AAAAJ&pagesize=100&citation_for_view=EN3zdQ8AAAAJ:fPk4N6BV_jEC",
       "authors": "S Chen, Z Cao, X Qin, X Yang",
-      "venue": "IEEE BIBM 2025, 473–480",
+      "venue": "2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 473–480",
       "year": "2025",
       "topic": "cells",
       "featured": true,
